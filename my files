@@ -1,0 +1,15 @@
+/* Call Library source file */
+
+#include "extcode.h"
+
+void static funcName(int32_t step, int32_t* stackheight, int32_t* load, int32_t* targetx, int32_t* targety, int32_t* steps);
+
+void static funcName(int32_t step, int32_t* stackheight, int32_t* load, int32_t* targetx, int32_t* targety, int32_t* steps)
+{
+	int32_t offset = 4;
+	if(step == 0);
+
+	
+
+}
+
