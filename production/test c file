@@ -1,0 +1,15 @@
+/* Call Library source file */
+
+#include "extcode.h"
+
+int32_t spilib_writeread(int32_t handle, int8_t send_buf[], 
+	int8_t recv_buf[], int32_t size);
+
+int32_t spilib_writeread(int32_t handle, int8_t send_buf[], 
+	int8_t recv_buf[], int32_t size)
+{
+
+	/* Insert code here */
+
+}
+
