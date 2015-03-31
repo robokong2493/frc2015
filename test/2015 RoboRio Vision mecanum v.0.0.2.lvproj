@@ -141,6 +141,7 @@ AddOutputFilter chunkFilter
 		<Item Name="obsitcle avoidance.vi" Type="VI" URL="../obsitcle avoidance.vi"/>
 		<Item Name="read data from lard.vi" Type="VI" URL="../read data from lard.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="send if stopped.vi" Type="VI" URL="../../../2015 RoboRio Vision mecanum v.0.0.2/send if stopped.vi"/>
 		<Item Name="send inital pos data.vi" Type="VI" URL="../send inital pos data.vi"/>
 		<Item Name="start position.vi" Type="VI" URL="../start position.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

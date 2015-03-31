@@ -139,6 +139,7 @@ AddOutputFilter chunkFilter
 		<Item Name="movement control.vi" Type="VI" URL="../movement control.vi"/>
 		<Item Name="nav waypoint info.vi" Type="VI" URL="../nav waypoint info.vi"/>
 		<Item Name="obsitcle avoidance.vi" Type="VI" URL="../obsitcle avoidance.vi"/>
+		<Item Name="ramp (1 sec).vi" Type="VI" URL="../ramp (1 sec).vi"/>
 		<Item Name="read data from lard.vi" Type="VI" URL="../read data from lard.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="send inital pos data.vi" Type="VI" URL="../send inital pos data.vi"/>
